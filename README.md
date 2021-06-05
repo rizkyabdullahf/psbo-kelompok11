@@ -1,3 +1,9 @@
+<h3 align="center"> IPB Konseling </h3>
+<h4 align="center"> Paralel Praktikum II </h4>
+<h4 align="center"> Kelompok 11 </h4>
+           
+
+
 # Curhat.in 
 
 Curhat.in is a mobile based consultation app for IPB University students to share their problems regarding academics, family, financial, relationships and many more. Working together with the department of Human Ecology of IPB University, we strive to create a platform for all IPB University students to relieve their stress and decrease mental health issues. 
