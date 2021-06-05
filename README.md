@@ -58,17 +58,19 @@ Sebagai seorang Konselor, saya ingin membantu Mahasiswa/i yang memiliki permasal
   <ul>
     <li> Enkapsulasi menekankan pada antarmuka suatu kelas dan menekankan bagaimana menggunakan objek kelas tertentu. </li>
     <li> Proses enkapsulasi memudahkan kami untuk memakai sebuah objek dari suatu kelas karena kami tidak perlu mengetahui objek kelas lain secara rinci. </li>
-    <li> Kombinasi data dan fungsionalitas dalam sebuah unit tunggal diperuntukan sebagai bentuk untuk melakukan hidden informasi yang bersifat detail.
+    <li> Kombinasi data dan fungsionalitas dalam sebuah unit tunggal diperuntukan sebagai bentuk untuk melakukan hidden informasi yang bersifat detail. </li>
   </ul>
 
 <h3> 3. Pewarisan </h3>
 <ul>
-    <li> Dengan konsep pewarisan, kami dapat memakai kode yang telah ditulis pada super class secara berulang kali pada kelas-kelas turunannya tanpa harus menulis ulang semua kode kode tersebut </li>
-  <li> </li>
+    <li> Dengan konsep pewarisan, kami dapat memakai kode yang telah ditulis pada super class secara berulang kali pada kelas-kelas turunannya tanpa harus menulis ulang semua kode kode tersebut. </li>
+  <li> Kami dapat mendefinisikan suatu kelas baru dengan mewarisi sifat dari kelas lain yang telah ada. </li>
+  <li> Penurunan sifat tersebut dapat dilakukan secara bertingkat-tingkat, sehingga semakin ke bawah kelas tersebut menjadi lebih spefisik. </li>
   </ul>
- # Curhat.in 
-
-Curhat.in is a mobile based consultation app for IPB University students to share their problems regarding academics, family, financial, relationships and many more. Working together with the department of Human Ecology of IPB University, we strive to create a platform for all IPB University students to relieve their stress and decrease mental health issues. 
+  
+## Tipe desain pengembangan yang digunakan (Pattern)
+  
+ 
 
 This app is created using the MVC (Model View Controller) Design Pattern
 
@@ -79,10 +81,5 @@ This app is created using the MVC (Model View Controller) Design Pattern
    - CRUD psychological articles (Psikoinfo) 
    - CRUD user profile
 
-### Tech Stack
-- Flutter (Mobile Framework) 
-- Firebase Authentication (Role based User Auth)
-- Cloud Firestore (NoSQL Database)
-- Firebase Storage (Image Database)
-- Firebase Messaging (Push Notifications)
+
 - Provider (State Management)
