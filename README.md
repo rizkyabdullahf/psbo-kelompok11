@@ -5,22 +5,30 @@
 
 ## User Analysis
 <h3> User Story </h3>
-<b> Radha Syifa Salsabila (19 tahun) </b> 
+<li> <b> Radha Syifa Salsabila (19 tahun) </b> </li> 
 <br>
 Sebagai seorang Mahasiswi IPB University, saya membutuhkan artikel-artikel terkait informasi kesehatan mental yang relevan agar saya dapat mempelajari pentingnya menjaga kesehatan mental dengan baik dan teratur. 
 <br>
 <br>
-<b> Rasya Ahmad Kurnia (21 tahun) </b>
+<li> <b> Rasya Ahmad Kurnia (21 tahun) </b> </li>
 <br>
 Sebagai seorang Mahasiswa IPB University, saya membutuhkan konsultasi dengan teman sebaya yang paham terkait permasalahan Mahasiswa pada umumnya untuk bisa membantu saya menangani permasalahan kesehatan mental yang saya rasakan.
 <br>
 <br>
-<b> Ardella Maharani (22 tahun) </b>
+<li> <b> Ardella Maharani (22 tahun) </b> </li>
 <br>
 Sebagai seorang Konselor, saya ingin membantu Mahasiswa/i yang memiliki permasalahan akademik, keluarga, atau kesehatan mental melalui fitur chat suatu aplikasi konseling di smartphone untuk bisa meringankan permasalahan mereka agar tidak terkena stress tingkat berat.  
 
 ## Spesifikasi Teknis Lingkungan Pengembangan
-<h3> 1. Software </h3>
+<h4> 1. Software </h4>
+<li> Text Editor                    : Visual Studio Code <br> </li> 
+<li> Operating System               : Windows 10 Pro 64-bit <br> </li>
+<li> Design Tools and Prototyping   : Figma dan Marvel App <br> </li>
+<li> Management Tools               : Trello dan Github <br> </li>
+<br>
+
+<h4> 2. Hardware </h4>
+
 # Curhat.in 
 
 Curhat.in is a mobile based consultation app for IPB University students to share their problems regarding academics, family, financial, relationships and many more. Working together with the department of Human Ecology of IPB University, we strive to create a platform for all IPB University students to relieve their stress and decrease mental health issues. 
