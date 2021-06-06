@@ -1,4 +1,4 @@
-<h3 align="center"> IPB Konseling <br> Paralel Praktikum II <br>  Kelompok 11 </h3>
+<h3 align="center"> Curhat.in <br> Paralel Praktikum II <br>  Kelompok 11 </h3>
 
 ## Curhat.in
 **Curhat.in** merupakan aplikasi konsultasi berbasis mobile yang diperuntukkan bagi Mahasiswa/i IPB University untuk berbagi masalah mereka tentang akademik, keluarga, keuangan, hubungan asmara, dan masalah lain yang berhubungan dengan kesehatan mental. Aplikasi ini dapat menjadi wadah bagi Mahasiswa/i untuk mengetahui pentingnya menjaga kesehatan mental dan membantu dalam menangani kasus permasalahan mengenai kesehatan mental. Mahasiswa/i dapat melakukan konsultasi secara gratis bersama konselor sebaya melalui chat dari aplikasi ini. Selain penanganan aktif melalui konsultasi bersama konselor sebaya, Mahasiswa/i mampu membaca artikel terkait kesehatan mental yang relevan bagi kehidupan kesehariannya. 
@@ -72,7 +72,7 @@ Sebagai seorang Konselor, saya ingin membantu Mahasiswa/i yang memiliki permasal
 <p align="center">
 <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/MVC.png?raw=true" width="400">
 </p>
-Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konseling), kelompok kami menggunakan design pattern MVC (Model, View, Controllers) yang mana sistem pengembangan aplikasi tersebut terdiri menjadi tiga bagian, yaitu model (database), view (tampilan antarmuka), dan yang terakhir controllers (interaksi model dan view). Sarana yang kami pakai dalam design pattern tersebut adalah Framework Flutter.
+Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (Curhat.in), kelompok kami menggunakan design pattern MVC (Model, View, Controllers) yang mana sistem pengembangan aplikasi tersebut terdiri menjadi tiga bagian, yaitu model (database), view (tampilan antarmuka), dan yang terakhir controllers (interaksi model dan view). Sarana yang kami pakai dalam design pattern tersebut adalah Framework Flutter.
 <h3> Model </h3>
 <h3> View </h3>
 <h3> Controllers </h3>
@@ -143,12 +143,12 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konse
   
   <h3> 5. Arsitektur Sistem </h3>
    <ul>
-     <li> <b> Ringkasan </b>  : Untuk bahasa pemrograman, Tim IPB Konseling menggunakan bahasa pemrograman Dart dengan framework Flutter.  </li>
-     <li> <b> Masalah </b> : Masalah yang dihadapi oleh Tim IPB Konseling adalah jangka waktu yang sangat terbatas, karena ini memberikan waktu 7 pertemuan selama sesi UAS untuk mengembangkan sebuah aplikasi sampai selesai. Sedangkan, untuk mengembangkan aplikasi butuh waktu yang cukup lama terutama dalam pembelajaran bahasa pemrograman yang baru, penerapan konsep OOP, dan Design Pattern. </li>
+     <li> <b> Ringkasan </b>  : Untuk bahasa pemrograman, Tim Curhat.in menggunakan bahasa pemrograman Dart dengan framework Flutter.  </li>
+     <li> <b> Masalah </b> : Masalah yang dihadapi oleh Tim Curhat.in adalah jangka waktu yang sangat terbatas, karena ini memberikan waktu 7 pertemuan selama sesi UAS untuk mengembangkan sebuah aplikasi sampai selesai. Sedangkan, untuk mengembangkan aplikasi butuh waktu yang cukup lama terutama dalam pembelajaran bahasa pemrograman yang baru, penerapan konsep OOP, dan Design Pattern. </li>
      <li> <b> Opsi  </b> : 
      <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/vs.png?raw=true" width="300"> </p> </li> 
-     <li> <b> Rasional </b> : Tim IPB Konseling memilih menggunakan bahasa Dart dan framework Flutter dikarenakan waktu pengembangan aplikasi yang diberikan cukup singkat dan membutuhkan tampilan antarmuka yang menarik. </li>
+     <li> <b> Rasional </b> : Tim Curhat.in memilih menggunakan bahasa Dart dan framework Flutter dikarenakan waktu pengembangan aplikasi yang diberikan cukup singkat dan membutuhkan tampilan antarmuka yang menarik. </li>
   <hr>
   
   <h3> 6. Fungsi Utama yang Dikembangkan </h3>
@@ -166,10 +166,10 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konse
   <hr>
   
 ## Saran untuk pengembangan selanjutnya
-Untuk pengembangan sistem aplikasi konsultasi mobile (IPB Konseling), diharapkan akan ada penambahan fitur berupa video conference untuk lebih mengenal lebih dekat secara tatap muka virtual antara Konseli dan Konselor. Selain itu, diharapkan juga akan ada penambahan fitur berupa grup atau komunitas tertentu agar masalah yang mungkin terbilang sama dapat ditampung dalam satu waktu oleh Konselor.   
+Untuk pengembangan sistem aplikasi konsultasi mobile (Curhat.in), diharapkan akan ada penambahan fitur berupa video conference untuk lebih mengenal lebih dekat secara tatap muka virtual antara Konseli dan Konselor. Selain itu, diharapkan juga akan ada penambahan fitur berupa grup atau komunitas tertentu agar masalah yang mungkin terbilang sama dapat ditampung dalam satu waktu oleh Konselor.   
   
 ## Developer dan Job Desc
-<h3> IPB Konseling </h3>
+<h3> Curhat.in </h3>
  <ul>
    <li>  <b> Abdan Syakuro (G64170101) -- Project Manager, Front End, Back End.  </b> </li>
    <li>  <b> Rizky Abdullah Falah (G64170063) -- System Analyst.  </b> </li>
