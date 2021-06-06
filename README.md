@@ -70,7 +70,7 @@ Sebagai seorang Konselor, saya ingin membantu Mahasiswa/i yang memiliki permasal
   
 ## Tipe desain pengembangan yang digunakan (Pattern - Anti Pattern)
 <p align="center">
-<img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/MVC.png?raw=true" width="600">
+<img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/MVC.png?raw=true" width="400">
 </p>
 Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konseling), kelompok kami menggunakan design pattern MVC (Model, View, Controllers) yang mana sistem pengembangan aplikasi tersebut terdiri menjadi tiga bagian, yaitu model (database), view (tampilan antarmuka), dan yang terakhir controllers (interaksi model dan view). Sarana yang kami pakai dalam design pattern tersebut adalah Framework Flutter.
 <h3> Model </h3>
@@ -82,32 +82,32 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konse
   <ul>
   <li>  <b> Artikel Psikoinfo  </b> </li>
   <p align="center">
-  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Membaca%20Artikel-Page-5.png?raw=true" width="600">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Membaca%20Artikel-Page-5.png?raw=true" width="500">
   </p>
   
   <li>  <b> Konsultasi Akademik  </b> </li>
   <p align="center">
-  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Konsultasi.png?raw=true" width="600">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Konsultasi.png?raw=true" width="500">
   </p>
    
   <li>  <b> Konsultasi Kebugaran  </b> </li>
   <p align="center">
-  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Kebugaran.png?raw=true" width="600">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Kebugaran.png?raw=true" width="500">
   </p>
   
   <li>  <b> Konsultasi Finansial  </b> </li>
   <p align="center">
-  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Finansial%20(1).png?raw=true" width="600">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Finansial%20(1).png?raw=true" width="500">
   </p>
     
   <li>  <b> Konsultasi Keluarga  </b> </li>
   <p align="center">
-  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/family%20(1).png?raw=true" width="600">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/family%20(1).png?raw=true" width="500">
   </p>
-   
+    
   <li>  <b> Profile  </b> </li>
   <p align="center">
-  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Profile.png?raw=true" width="600">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Profile.png?raw=true" width="500">
   </p>
    </ul>
 <hr>
@@ -116,22 +116,22 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konse
   
    <li>  <b> CRUD Profile  </b> </li>
   <p align="center">
-  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/CRUD%20Profile.png?raw=true" width="600">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/CRUD%20Profile.png?raw=true" width="500">
   </p>
   
   <li>  <b> Membaca Artikel Psikoinfo  </b> </li>
   <p align="center">
-  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Membaca%20Artikel.png?raw=true" width="600">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Membaca%20Artikel.png?raw=true" width="500">
   </p>
   
   <li>  <b> Menulis Artikel Psikoinfo  </b> </li>
   <p align="center">
-  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Menulis.png?raw=true" width="600">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Menulis.png?raw=true" width="500">
   </p>
   
   <li>  <b> Konsultasi Sebaya </b> </li>
   <p align="center">
-  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Mengirim%20Pesan.png?raw=true" width="600">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Mengirim%20Pesan.png?raw=true" width="500">
   </p>
  <hr>
   <h3> 3. Class Diagram </h3>
