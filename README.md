@@ -85,30 +85,32 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konse
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Membaca%20Artikel-Page-5.png?raw=true" width="600">
   </p>
   <br>
-  
   <li> Konsultasi Akademik </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Konsultasi.png?raw=true" width="600">
   </p>
    <br>
-  
   <li> *Konsultasi Kebugaran* </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Kebugaran.png?raw=true" width="600">
   </p>
     </ul>
     <br>
-  
   <li> Konsultasi Finansial </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Finansial%20(1).png?raw=true" width="600">
   </p>
     </ul>
     <br>
-    
   <li> Konsultasi Keluarga </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/family%20(1).png?raw=true" width="600">
+  </p>
+    </ul>
+     <br>
+  <li> Profile </li>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Profile.png?raw=true" width="600">
   </p>
     </ul>
     
