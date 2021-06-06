@@ -92,7 +92,7 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konse
   </p>
    <br>
   
-  <li> Konsultasi Kebugaran </li>
+  <li> *Konsultasi Kebugaran* </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Kebugaran.png?raw=true" width="600">
   </p>
@@ -101,7 +101,14 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konse
   
   <li> Konsultasi Finansial </li>
   <p align="center">
-  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Finansial.png?raw=true" width="600">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Finansial%20(1).png?raw=true" width="600">
+  </p>
+    </ul>
+    <br>
+    
+  <li> Konsultasi Keluarga </li>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/family%20(1).png?raw=true" width="600">
   </p>
     </ul>
     
