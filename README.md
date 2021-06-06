@@ -134,17 +134,35 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konse
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Mengirim%20Pesan.png?raw=true" width="500">
   </p>
  <hr>
+
   <h3> 3. Class Diagram </h3>
- 
-
-This app is created using the MVC (Model View Controller) Design Pattern
-
-### Features
-   - Role based user authentication (consultant and student)
-   - Real-time user chat (between consultant and student) 
-   - Online/offline user presence
-   - CRUD psychological articles (Psikoinfo) 
-   - CRUD user profile
-
-
-- Provider (State Management)
+  <hr>
+  
+  <h3> 4. Entity Relationship Diagram Diagram </h3>
+  <hr>
+  
+  <h3> 5. Arsitektur Sistem </h3>
+  <hr>
+  
+  <h3> 6. Fungsi Utama yang Dikembangkan </h3>
+  <hr>
+  
+  <h3> 7. Fungsi CRUD </h3>
+  <hr>
+  
+## Hasil implementasi
+  <h3> 1. Screenshot Sistem </h3>
+  <hr>
+  <h3> 2. Link aplikasi (jika sudah di deploy) </h3>
+  <hr>
+  
+## Saran untuk pengembangan selanjutnya
+Untuk pengembangan sistem aplikasi konsultasi mobile (IPB Konseling), diharapkan akan ada penambahan fitur 
+## Developer dan Job Desc
+<h3> IPB Konseling </h3>
+ <ul>
+   <li>  <b> Abdan Syakuro (G64170101) -- Project Manager, Front End, Back End.  </b> </li>
+   <li>  <b> Rizky Abdullah Falah (G64170063) -- System Analyst.  </b> </li>
+   <li>  <b> Rakheda Andria Parastu  (G64180105) -- Back End.  </b> </li>
+   <li>  <b> Fadil Risdian Ansori (G64180111) -- Front End.  </b> </li>
+  </ul>
