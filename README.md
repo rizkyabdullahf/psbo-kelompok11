@@ -163,6 +163,9 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (Curhat.in
   <h3> 1. Screenshot Sistem </h3>
   <hr>
   <h3> 2. Link aplikasi (jika sudah di deploy) </h3>
+    <p align="center">
+    <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/playstore.png?raw=true" width="300"> </p> 
+     
   <hr>
   
 ## Saran untuk pengembangan selanjutnya
