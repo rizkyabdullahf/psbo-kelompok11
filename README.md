@@ -68,11 +68,30 @@ Sebagai seorang Konselor, saya ingin membantu Mahasiswa/i yang memiliki permasal
   <li> Penurunan sifat tersebut dapat dilakukan secara bertingkat-tingkat, sehingga semakin ke bawah kelas tersebut menjadi lebih spefisik. </li>
   </ul>
   
-## Tipe desain pengembangan yang digunakan (Pattern)
+## Tipe desain pengembangan yang digunakan (Pattern - Anti Pattern)
+<p align="center">
 <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/MVC.png?raw=true" width="600">
-<ul>
-  
-  </ul>
+</p>
+Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konseling), kelompok kami menggunakan design pattern MVC (Model, View, Controllers) yang mana sistem pengembangan aplikasi tersebut terdiri menjadi tiga bagian, yaitu model (database), view (tampilan antarmuka), dan yang terakhir controllers (interaksi model dan view). Sarana yang kami pakai dalam design pattern tersebut adalah Framework Flutter.
+<h3> Model </h3>
+<h3> View </h3>
+<h3> Controllers </h3>
+
+## Hasil dan Pembahasan
+<h3> 1. Use Case Diagram </h3>
+  <ul>
+  <li> Artikel Psikoinfo </li>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Membaca%20Artikel-Page-5.png?raw=true" width="600">
+  </p>
+  <br>
+  <li> Artikel Psikoinfo </li>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Membaca%20Artikel-Page-5.png?raw=true" width="600">
+  </p>
+    </ul>
+    
+    
  
 
 This app is created using the MVC (Model View Controller) Design Pattern
