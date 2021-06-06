@@ -165,6 +165,7 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (Curhat.in
   <h3> 2. Link aplikasi (jika sudah di deploy) </h3>
     <p align="center">
     <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/playstore.png?raw=true" width="900"> </p> 
+     https://play.google.com/store/apps/details?id=com.curhatin.apps
      
   <hr>
   
