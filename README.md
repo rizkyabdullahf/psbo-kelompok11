@@ -133,6 +133,8 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konse
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Mengirim%20Pesan.png?raw=true" width="600">
   </p>
+ <hr>
+  <h3> 3. Class Diagram </h3>
  
 
 This app is created using the MVC (Model View Controller) Design Pattern
