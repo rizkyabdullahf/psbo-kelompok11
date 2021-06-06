@@ -1,7 +1,7 @@
 <h3 align="center"> IPB Konseling <br> Paralel Praktikum II <br>  Kelompok 11 </h3>
 
-## IPB Konseling 
-**IPB Konseling** merupakan aplikasi konsultasi berbasis mobile yang diperuntukkan bagi Mahasiswa/i IPB University untuk berbagi masalah mereka tentang akademik, keluarga, keuangan, hubungan asmara, dan masalah lain yang berhubungan dengan kesehatan mental. Aplikasi ini dapat menjadi wadah bagi Mahasiswa/i untuk mengetahui pentingnya menjaga kesehatan mental dan membantu dalam menangani kasus permasalahan mengenai kesehatan mental. Mahasiswa/i dapat melakukan konsultasi secara gratis bersama konselor sebaya melalui chat dari aplikasi ini. Selain penanganan aktif melalui konsultasi bersama konselor sebaya, Mahasiswa/i mampu membaca artikel terkait kesehatan mental yang relevan bagi kehidupan kesehariannya. 
+## Curhat.in
+**Curhat.in** merupakan aplikasi konsultasi berbasis mobile yang diperuntukkan bagi Mahasiswa/i IPB University untuk berbagi masalah mereka tentang akademik, keluarga, keuangan, hubungan asmara, dan masalah lain yang berhubungan dengan kesehatan mental. Aplikasi ini dapat menjadi wadah bagi Mahasiswa/i untuk mengetahui pentingnya menjaga kesehatan mental dan membantu dalam menangani kasus permasalahan mengenai kesehatan mental. Mahasiswa/i dapat melakukan konsultasi secara gratis bersama konselor sebaya melalui chat dari aplikasi ini. Selain penanganan aktif melalui konsultasi bersama konselor sebaya, Mahasiswa/i mampu membaca artikel terkait kesehatan mental yang relevan bagi kehidupan kesehariannya. 
 
 ## User Analysis
 <h3> User Story </h3>
