@@ -110,8 +110,29 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konse
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Profile.png?raw=true" width="600">
   </p>
    </ul>
-
+<hr>
 <h3> 2. Activity Diagram </h3>
+ <ul>
+  
+   <li>  <b> CRUD Profile  </b> </li>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/CRUD%20Profile.png?raw=true" width="600">
+  </p>
+  
+  <li>  <b> Membaca Artikel Psikoinfo  </b> </li>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Membaca%20Artikel.png?raw=true" width="600">
+  </p>
+  
+  <li>  <b> Menulis Artikel Psikoinfo  </b> </li>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Menulis.png?raw=true" width="600">
+  </p>
+  
+  <li>  <b> Konsultasi Sebaya </b> </li>
+  <p align="center">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Mengirim%20Pesan.png?raw=true" width="600">
+  </p>
  
 
 This app is created using the MVC (Model View Controller) Design Pattern
