@@ -69,7 +69,10 @@ Sebagai seorang Konselor, saya ingin membantu Mahasiswa/i yang memiliki permasal
   </ul>
   
 ## Tipe desain pengembangan yang digunakan (Pattern)
+<img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/MVC.png?raw=true" width="600">
+<ul>
   
+  </ul>
  
 
 This app is created using the MVC (Model View Controller) Design Pattern
