@@ -161,19 +161,10 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (Curhat.in
   
 ## Hasil implementasi
   <h3> 1. Screenshot Sistem </h3>
-      <li>  <b> List Konselor Sebaya  </b> </li>
-      <p align="center">
-      <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/unnamed-3.jpg?raw=true" width="500">
-      </p>
-  <hr>
-      <li>  <b> Chatting dengan Konselor Sebaya  </b> </li>
-      <p align="center">
-      <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/unnamed-4.jpg?raw=true" width="500">
-      </p>
-  <hr>
-     <li>  <b> List Artikel Psikoinfo  </b> </li>
-      <p align="center">
-      <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/unnamed-5.jpg?raw=true" width="500">
+      <p float="left">
+          <img src="https://raw.githubusercontent.com/rizkyabdullahf/psbo-kelompok11/main/web/unnamed-3.jpg" width="200" />
+          <img src="https://raw.githubusercontent.com/rizkyabdullahf/psbo-kelompok11/main/web/unnamed-4.jpg" width="200" /> 
+          <img src="https://raw.githubusercontent.com/rizkyabdullahf/psbo-kelompok11/main/web/unnamed-5.jpg" width="200" />
       </p>
   <hr>
  
