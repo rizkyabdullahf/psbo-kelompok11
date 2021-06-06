@@ -21,18 +21,18 @@ Sebagai seorang Konselor, saya ingin membantu Mahasiswa/i yang memiliki permasal
 ## Spesifikasi Teknis Lingkungan Pengembangan
 <h3> Software </h3>
 <ul>
-<li> Text Editor                    : Visual Studio Code <br> </li> 
-<li> Operating System               : Windows 10 Pro 64-bit <br> </li>
-<li> Design Tools and Prototyping   : Figma dan Marvel App <br> </li>
-<li> Management Tools               : Trello dan Github <br> </li>
+<li>  <b> Text Editor  </b>                    : Visual Studio Code <br> </li> 
+<li> <b> Operating System </b>             : Windows 10 Pro 64-bit <br> </li>
+<li>  <b> Design Tools and Prototyping  </b>   : Figma dan Marvel App <br> </li>
+<li> <b> Management Tools  </b>              : Trello dan Github <br> </li>
 </ul>
 
 <h3> Hardware </h3>
 <ul>
-<li> CPU    : Intel Core i7-4600U @2.10GHz <br> </li> 
-<li> GPU    : Intel HD Graphic Family <br> </li>
-<li> RAM    : 4GB DDR <br> </li>
-<li> ROM    : 512Gb HDD dan 128Gb SSD <br> </li>
+<li>  <b> CPU  </b>   : Intel Core i7-4600U @2.10GHz <br> </li> 
+<li>  <b> GPU  </b>    : Intel HD Graphic Family <br> </li>
+<li>  <b> RAM  </b>   : 4GB DDR <br> </li>
+<li>  <b> ROM  </b>   : 512Gb HDD dan 128Gb SSD <br> </li>
 </ul>
 
 <h3> Tech Stack </h3>
@@ -80,41 +80,38 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konse
 ## Hasil dan Pembahasan
 <h3> 1. Use Case Diagram </h3>
   <ul>
-  <li> Artikel Psikoinfo </li>
+  <li>  <b> Artikel Psikoinfo  </b> </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Membaca%20Artikel-Page-5.png?raw=true" width="600">
   </p>
-  <br>
-  <li> Konsultasi Akademik </li>
+  
+  <li>  <b> Konsultasi Akademik  </b> </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Konsultasi.png?raw=true" width="600">
   </p>
-   <br>
-  <li> *Konsultasi Kebugaran* </li>
+   
+  <li>  <b> Konsultasi Kebugaran  </b> </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Kebugaran.png?raw=true" width="600">
   </p>
-    </ul>
-    <br>
-  <li> Konsultasi Finansial </li>
+  
+  <li>  <b> Konsultasi Finansial  </b> </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Finansial%20(1).png?raw=true" width="600">
   </p>
-    </ul>
-    <br>
-  <li> Konsultasi Keluarga </li>
+    
+  <li>  <b> Konsultasi Keluarga  </b> </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/family%20(1).png?raw=true" width="600">
   </p>
-    </ul>
-     <br>
-  <li> Profile </li>
+   
+  <li>  <b> Profile  </b> </li>
   <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Profile.png?raw=true" width="600">
   </p>
-    </ul>
-    
-    
+   </ul>
+
+<h3> 2. Activity Diagram </h3>
  
 
 This app is created using the MVC (Model View Controller) Design Pattern
