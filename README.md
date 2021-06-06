@@ -152,7 +152,9 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (IPB Konse
   <hr>
   
   <h3> 6. Fungsi Utama yang Dikembangkan </h3>
-  <hr>
+  <li> <b> Chatting dengan konselor </b>  :Sesuai dengan tujuannya, aplikasi yang kami kembangkan membantu mahasiswa yang memiliki masalah untunk dihubungkan dengan konselor sebaya yang juga berasal dari mahasiswa. Kegiatan konseling mahasiswa terjadi di dalam percakapan <i> chatting </i> Mahasiswa dapat memilih kateogri permasalahan yang dirasa sangat berat dan memilih konselor terkait permasalahan tersebut. Setelah memilih konselor mahasiswa dapat melakukan chatting dengan konselornya.</li>
+  <li> <b> Membaca Artikel  </b> : Selain membantu penyelesaian permasalahan via chatting, pengguna juga dapat membaca kumpulan artikel terkait kesehatan mental yang dapat membantu mereduksi permasalahannya secara mandiri. Artikel yang terdapat di dalam aplikasi curhat.in ditulis oleh Konselor sebaya yang merupakan tempat konsultasi</li> 
+     <hr>
   
   <h3> 7. Fungsi CRUD </h3>
   <hr>
