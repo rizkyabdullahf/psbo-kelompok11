@@ -157,7 +157,7 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (Curhat.in
      <hr>
   
   <h3> 7. Fungsi CRUD </h3>
-      <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Screen%20Shot%202021-06-07%20at%2010.48.46.png?raw=true" width="750"> </p> 
+      <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/Screen%20Shot%202021-06-07%20at%2010.48.46.png?raw=true" width="900"> </p> 
   <p> <b>Create Read Update Table:</b> Tabel terkait fitur CRUD yang dapat dilakukan oleh user dari role Konseli dan Konselor </p>
   <hr>
   
