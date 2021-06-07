@@ -183,7 +183,7 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (Curhat.in
   
   <h3> 3. Dokumentasi Pengembangan </h3>
     <p align="center">
-    <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/screenshotVS.png?raw=true" width="900"> </p> 
+    <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/ScreenshotVS.png?raw=true width="900"> </p> 
      
      
   <hr>
