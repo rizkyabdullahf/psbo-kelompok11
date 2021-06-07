@@ -187,3 +187,6 @@ Untuk pengembangan sistem aplikasi konsultasi mobile (Curhat.in), diharapkan aka
    <li>  <b> Rakheda Andria Parastu  (G64180105) -- Back End.  </b> </li>
    <li>  <b> Fadil Risdian Ansori (G64180111) -- Front End.  </b> </li>
   </ul>
+     
+ ## Testing (Test Cases)
+     
