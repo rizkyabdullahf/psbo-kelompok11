@@ -139,6 +139,8 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (Curhat.in
   <hr>
   
   <h3> 4. Entity Relationship Diagram Diagram </h3>
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/erd%20diagram.png?raw=true" width="900"> </p> 
+  <p> <b>ERD Diagram:</b> Diagram relasi antara user dengan system dan admin </p>
   <hr>
   
   <h3> 5. Arsitektur Sistem </h3>
