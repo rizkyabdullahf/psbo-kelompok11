@@ -73,9 +73,6 @@ Sebagai seorang Konselor, saya ingin membantu Mahasiswa/i yang memiliki permasal
 <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/MVC.png?raw=true" width="400">
 </p>
 Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (Curhat.in), kelompok kami menggunakan design pattern MVC (Model, View, Controllers) yang mana sistem pengembangan aplikasi tersebut terdiri menjadi tiga bagian, yaitu model (database), view (tampilan antarmuka), dan yang terakhir controllers (interaksi model dan view). Sarana yang kami pakai dalam design pattern tersebut adalah Framework Flutter.
-<h3> Model </h3>
-<h3> View </h3>
-<h3> Controllers </h3>
 
 ## Hasil dan Pembahasan
 <h3> 1. Use Case Diagram </h3>
@@ -136,6 +133,9 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (Curhat.in
  <hr>
 
   <h3> 3. Class Diagram </h3>
+   <p align="center">
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/class.png?raw=true" width="500">
+  </p>
   <hr>
   
   <h3> 4. Entity Relationship Diagram Diagram </h3>
