@@ -196,8 +196,8 @@ Untuk pengembangan sistem aplikasi konsultasi mobile (Curhat.in), diharapkan aka
  <ul>
    <li>  <b> Abdan Syakuro (G64170101) -- Project Manager.  </b> </li>
    <li>  <b> Rizky Abdullah Falah (G64170063) -- System Analyst.  </b> </li>
-   <li>  <b> Rakheda Andria Parastu  (G64180105) -- Back End.  </b> </li>
-   <li>  <b> Fadil Risdian Ansori (G64180111) -- Front End.  </b> </li>
+   <li>  <b> Rakheda Andria Parastu  (G64180105) -- Front End.  </b> </li>
+   <li>  <b> Fadil Risdian Ansori (G64180111) -- Back End.  </b> </li>
   </ul>
      
  
