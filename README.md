@@ -144,13 +144,14 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (Curhat.in
   <hr>
   
   <h3> 5. Arsitektur Sistem </h3>
+  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/arsitektur.png?raw=true" > </p> </li> 
    <ul>
      <li> <b> Ringkasan </b>  : Untuk bahasa pemrograman, Tim Curhat.in menggunakan bahasa pemrograman Dart dengan framework Flutter.  </li>
      <li> <b> Masalah </b> : Masalah yang dihadapi oleh Tim Curhat.in adalah jangka waktu yang sangat terbatas, karena ini memberikan waktu 7 pertemuan selama sesi UAS untuk mengembangkan sebuah aplikasi sampai selesai. Sedangkan, untuk mengembangkan aplikasi butuh waktu yang cukup lama terutama dalam pembelajaran bahasa pemrograman yang baru, penerapan konsep OOP, dan Design Pattern. </li>
      <li> <b> Opsi  </b> : 
      <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/vs.png?raw=true" width="300"> </p> </li>
-  <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/arsitektur.png?raw=true" > </p> </li> 
+  
      <li> <b> Rasional </b> : Tim Curhat.in memilih menggunakan bahasa Dart dan framework Flutter dikarenakan waktu pengembangan aplikasi yang diberikan cukup singkat dan membutuhkan tampilan antarmuka yang menarik. </li>
   <hr>
   
