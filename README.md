@@ -151,7 +151,6 @@ Dalam merancang dan mengembangkan aplikasi konsultasi berbasis mobile (Curhat.in
      <li> <b> Opsi  </b> : 
      <p align="center">
   <img src="https://github.com/rizkyabdullahf/psbo-kelompok11/blob/main/web/vs.png?raw=true" width="300"> </p> </li>
-  
      <li> <b> Rasional </b> : Tim Curhat.in memilih menggunakan bahasa Dart dan framework Flutter dikarenakan waktu pengembangan aplikasi yang diberikan cukup singkat dan membutuhkan tampilan antarmuka yang menarik. </li>
   <hr>
   
